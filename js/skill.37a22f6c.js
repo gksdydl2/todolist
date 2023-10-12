@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktodolist"]=self["webpackChunktodolist"]||[]).push([[168],{844:function(n,s,t){t.r(s),t.d(s,{default:function(){return d}});var i=t(3396);const l={class:"skill"},e=(0,i._)("h1",null,"This is an skill page",-1),r=[e];function u(n,s){return(0,i.wg)(),(0,i.iD)("div",l,r)}var a=t(89);const c={},o=(0,a.Z)(c,[["render",u]]);var d=o}}]);
+//# sourceMappingURL=skill.37a22f6c.js.map
